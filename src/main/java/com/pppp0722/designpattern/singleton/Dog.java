@@ -8,6 +8,6 @@ public class Dog {
     }
 
     public void bark() {
-        System.out.println(name + ": " + "멍!");
+        System.out.println( name + ": " + "멍!" );
     }
 }
