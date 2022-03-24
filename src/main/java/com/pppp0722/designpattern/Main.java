@@ -13,7 +13,7 @@ public class Main {
         dog2.bark();
 
         if (dog1.equals(dog2)) {
-            System.out.println("dog1 & dog2 => 같습니다.");
+            System.out.println( "dog1 & dog2 => 같습니다." );
         } else {
             System.out.println("dog1 & dog2 => 다릅니다.");
         }
