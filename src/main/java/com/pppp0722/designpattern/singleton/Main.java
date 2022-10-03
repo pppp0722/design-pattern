@@ -1,9 +1,7 @@
-package com.pppp0722.designpattern;
-
-import com.pppp0722.designpattern.singleton.Dog;
-import com.pppp0722.designpattern.singleton.SingleDog;
+package com.pppp0722.designpattern.singleton;
 
 public class Main {
+
     public static void main(String[] args) {
         // Singleton Pattern
         Dog dog1 = new Dog("dog1");
@@ -13,7 +11,7 @@ public class Main {
         dog2.bark();
 
         if (dog1.equals(dog2)) {
-            System.out.println( "dog1 & dog2 => 같습니다." );
+            System.out.println("dog1 & dog2 => 같습니다.");
         } else {
             System.out.println("dog1 & dog2 => 다릅니다.");
         }
