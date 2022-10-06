@@ -4,4 +4,5 @@
 - **Singleton Pattern**
 - **Strategy Pattern**
 - **Observer Pattern**
+- **Decorator Pattern**
 - to be added..
