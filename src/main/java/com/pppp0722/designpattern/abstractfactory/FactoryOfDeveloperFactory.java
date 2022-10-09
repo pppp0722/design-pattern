@@ -17,5 +17,6 @@ public class FactoryOfDeveloperFactory {
 
         developerFactory.createLanguage();
         developerFactory.createField();
+        System.out.println("개발자 생성 완료!");
     }
 }
