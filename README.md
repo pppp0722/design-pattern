@@ -1,8 +1,7 @@
-# DesignPattern
-## 다양한 디자인 패턴을 구현해보는 repository (Java)
-
-- **Singleton Pattern**
-- **Strategy Pattern**
-- **Observer Pattern**
-- **Decorator Pattern**
+## design-pattern 🎨
+Java로 구현하는 다양한 디자인 패턴
+- Singleton Pattern
+- Strategy Pattern
+- Observer Pattern
+- Decorator Pattern
 - to be added..
