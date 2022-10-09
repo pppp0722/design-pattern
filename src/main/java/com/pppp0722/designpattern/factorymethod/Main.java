@@ -9,14 +9,14 @@ public class Main {
         ChickenStore koreanStore = new KoreanChickenStore();
         ChickenStore americanStore = new AmericanChickenStore();
 
-        Chicken koreanFriedChicken = koreanStore.create(FRIED);
+        Chicken koreanFriedChicken = koreanStore.order(FRIED);
         output(koreanFriedChicken.getName(), koreanFriedChicken.getSauce());
-        Chicken koreanSeasonedChicken = koreanStore.create(SEASONED);
+        Chicken koreanSeasonedChicken = koreanStore.order(SEASONED);
         output(koreanSeasonedChicken.getName(), koreanSeasonedChicken.getSauce());
 
-        Chicken americanFriedChicken = americanStore.create(FRIED);
+        Chicken americanFriedChicken = americanStore.order(FRIED);
         output(americanFriedChicken.getName(), americanFriedChicken.getSauce());
-        Chicken americanSeasonedChicken = americanStore.create(SEASONED);
+        Chicken americanSeasonedChicken = americanStore.order(SEASONED);
         output(americanSeasonedChicken.getName(), americanSeasonedChicken.getSauce());
     }
 
