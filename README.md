@@ -10,4 +10,5 @@ Java로 구현하는 다양한 디자인 패턴<br>
 - 커맨드 패턴(Command Pattern)
 - 어댑터 패턴(Adapter Pattern)
 - 퍼사드 패턴(Facade Pattern)
+- 템플릿 메소드 패턴(Template Method Pattern)
 - to be added..
