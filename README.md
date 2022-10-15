@@ -11,4 +11,5 @@ Java로 구현하는 다양한 디자인 패턴<br>
 - 어댑터 패턴(Adapter Pattern)
 - 퍼사드 패턴(Facade Pattern)
 - 템플릿 메소드 패턴(Template Method Pattern)
+- 반복자 패턴(Iterator Pattern)
 - to be added..
