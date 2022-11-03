@@ -13,4 +13,5 @@ Java로 구현하는 다양한 디자인 패턴<br>
 - 템플릿 메소드 패턴(Template Method Pattern)
 - 반복자 패턴(Iterator Pattern)
 - 프록시 패턴(Proxy Pattern)
+- 컴포지트 패턴(Composite Pattern)
 - to be added..
