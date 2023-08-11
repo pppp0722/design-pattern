@@ -15,4 +15,7 @@ Java로 구현하는 다양한 디자인 패턴<br>
 - 프록시 패턴 (Proxy Pattern)
 - 컴포지트 패턴 (Composite Pattern)
 - 책임 연쇄 패턴 (Chain of Responsibility Pattern)
+- 빌더 패턴 (Builder Pattern)
+- 포로토타입 패턴 (Prototype Pattern)
+- 브릿지 패턴 (Bridge Pattern)
 - to be added..
